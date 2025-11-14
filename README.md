@@ -1,7 +1,7 @@
 # Advanced_Data_Compression_Techniques
 
-#Autoencoders(1).ipynb - Our proposed methodology code 
-#Jpeg.ipynb - Existing methodology code
+# Autoencoders(1).ipynb - Our proposed methodology code 
+# Jpeg.ipynb - Existing methodology code
 
 # Multi-Resolution Image Compression using Deep Convolutional Autoencoders  
 This project presents an image compression technique based on deep convolutional autoencoders, designed to achieve high compression ratios while maintaining high visual quality. Unlike traditional JPEG compression, which relies on fixed mathematical transformations, the proposed method learns data-driven multi-resolution representations that adaptively capture important features in an image.
