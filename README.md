@@ -84,6 +84,34 @@ The network learns what details are important instead of using hand-crafted tran
 - More natural reconstruction compared to JPEG  
 - Model adapts compression to dataset characteristics  
 
+
 ---
 
-## 📂 Folder Structure
+## 🛠️ Technologies Used
+- Python  
+- TensorFlow / Keras or PyTorch  
+- NumPy  
+- Matplotlib  
+- OpenCV  
+
+---
+
+## 📌 How to Run
+1. Install dependencies  
+2. Load dataset  
+3. Train the autoencoder model  
+4. Generate reconstructed images  
+5. Compare with JPEG compression results  
+
+---
+
+## 📖 Conclusion
+This project demonstrates that deep convolutional autoencoders provide a powerful alternative to traditional JPEG compression.  
+By learning multi-resolution patterns directly from data, they achieve smoother, higher-quality reconstructions even at aggressive compression levels.
+
+---
+
+
+
+
+
